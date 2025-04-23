@@ -5,4 +5,4 @@ It is a simple Notes App (With local storage), every note will have:
 ● Description
 
 
-I am use local storage to retain notes after refreshing the website.
+I used local storage to retain notes after refreshing the website.
